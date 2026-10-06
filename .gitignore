@@ -1,0 +1,10 @@
+# Dữ liệu và mô hình (tải/huấn luyện lại bằng script)
+data/
+models/
+logs/
+# Tài liệu cá nhân
+*.pdf
+__pycache__/
+*.pyc
+.venv/
+.streamlit/secrets.toml

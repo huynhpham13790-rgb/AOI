@@ -1,0 +1,13 @@
+# Cài PyTorch theo hướng dẫn tại https://pytorch.org (chọn bản CUDA nếu có GPU NVIDIA)
+torch>=2.2
+torchvision>=0.17
+numpy
+scipy
+scikit-learn
+opencv-python
+pillow
+matplotlib
+pandas
+requests
+tqdm
+streamlit>=1.35
