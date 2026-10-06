@@ -8,3 +8,5 @@ __pycache__/
 *.pyc
 .venv/
 .streamlit/secrets.toml
+# Ảnh thử (bản quyền của nguồn gốc)
+test_images/
